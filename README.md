@@ -38,3 +38,4 @@ cmd:
 2. `git add .`
 3. `git commit -m "Comentario en inglés"`
 4. `git push`
+5. `git status`
